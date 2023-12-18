@@ -58,7 +58,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ## Acknowledgments
 
